@@ -56,6 +56,19 @@
 			<artifactId>timingframework</artifactId>
 			<version>1.0</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.toedter/jcalendar -->
+		<dependency>
+			<groupId>com.toedter</groupId>
+			<artifactId>jcalendar</artifactId>
+			<version>1.4</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/no.tornado.databinding/jxdatepicker-support -->
+		<dependency>
+			<groupId>no.tornado.databinding</groupId>
+			<artifactId>jxdatepicker-support</artifactId>
+			<version>1.0</version>
+		</dependency>
+
 
 
 

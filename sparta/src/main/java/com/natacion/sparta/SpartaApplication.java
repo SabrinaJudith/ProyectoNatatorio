@@ -25,6 +25,7 @@ public class SpartaApplication {
 						.web(WebApplicationType.NONE)
 						.run(args);
 
+
 		//Ejecutamos el codigo para cargar el formulario
 		EventQueue.invokeLater(() -> {  //Metodo Lambda
 			//Obtenemos el objeto from a traves del spring
